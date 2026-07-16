@@ -16,6 +16,12 @@ Acredito no registro e na documentação prática de conceitos e tecnologias fun
 
 ## Habilidades Técnicas (Skills)
 * Linguagens e Ambientes Web: PHP (Versão 8.2.12), HTML, CSS, JavaScript (JS), Node.js e biblioteca MySQLi.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 * Banco de Dados: MySQL, 10.4.32-MariaDB e MySQL Workbench.
 * Ferramentas e IDEs: VS Code, Visual Studio, Code::Blocks, Android Studio, XAMPP, Notepad++ e Bloco de Notas.
 * Hardware e Jogos: Arduino e GameMaker Code (utilizado no desenvolvimento do TCC).
