@@ -1,4 +1,4 @@
-# Olá, eu sou o Israel Silva dos Reis Pereira
+# Olá, eu sou o Israel
 
 Desenvolvedor em aprendizado contínuo. Atualmente estou focado em testar ideias por diversão com o objetivo de ter um manual das coisas e manter uma rede conectada. 
 
