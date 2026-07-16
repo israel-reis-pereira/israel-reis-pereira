@@ -52,7 +52,19 @@ Acredito no registro e na documentação prática de conceitos e tecnologias fun
 ---
 
 ## Contato
-* LinkedIn: <a href="[https://www.linkedin.com/in/israel-silva-pereira]" target="_blank" rel="noopener noreferrer">israel-silva-pereira</a> [israel-silva-pereira](https://www.linkedin.com/in/israel-silva-pereira)
+* LinkedIn: [israel-silva-pereira](https://www.linkedin.com/in/israel-silva-pereira)
 
 ---
 *"Testando ideias por diversão e objetivo de ter um manual das coisas (manter uma rede conectada)."*
+
+
+
+| Linguagens e Tecnologias Web |
+| :--- |
+| <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> |
+
+
+
+| Bancos de Dados |
+| :--- |
+| <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> |
