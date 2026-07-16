@@ -32,7 +32,7 @@ A seguir as habilidades em tabelas:
 
 | Ferramentas e IDEs |
 | :--- |
-| ![VS Code](https://img.shields.io/badge/vs_code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Visual Studio](https://img.shields.io/badge/visual_studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white) ![Android Studio](https://img.shields.io/badge/android_studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white) ![XAMPP](https://img.shields.io/badge/xampp-FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white) ![CodeBlocks](https://img.shields.io/badge/codeblocks-000000.svg?style=for-the-badge&logo=codeblocks&logoColor=white) ![Notepad++](https://img.shields.io/badge/notepad++-90E590.svg?style=for-the-badge&logo=notepadplusplus&logoColor=black) ![Bloco de notas](https://img.shields.io/badge/notepad-A4A4A4.svg?style=for-the-badge&logo=notepad&logoColor=white) |
+| ![VS Code](https://img.shields.io/badge/vs_code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Visual Studio](https://img.shields.io/badge/visual_studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white) ![Android Studio](https://img.shields.io/badge/android_studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white) ![XAMPP](https://img.shields.io/badge/xampp-FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white) ![CodeBlocks](https://img.shields.io/badge/codeblocks-000000.svg?style=for-the-badge&logo=codeblocks&logoColor=white) ![Notepad++](https://img.shields.io/badge/notepad++-90E590.svg?style=for-the-badge&logo=notepadplusplus&logoColor=black) |
 
 | Hardware e Jogos |
 | :--- |
