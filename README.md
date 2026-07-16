@@ -20,6 +20,25 @@ Acredito no registro e na documentação prática de conceitos e tecnologias fun
 * Ferramentas e IDEs: VS Code, Visual Studio, Code::Blocks, Android Studio, XAMPP, Notepad++ e Bloco de Notas.
 * Hardware e Jogos: Arduino e GameMaker Code (utilizado no desenvolvimento do TCC).
 
+A seguir as habilidades em tabelas:
+
+| Linguagens e Tecnologias Web |
+| :--- |
+| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) |
+
+| Bancos de Dados e Ferramentas |
+| :--- |
+| ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/mysql_workbench-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MySQLi](https://img.shields.io/badge/mysqli-000000?style=for-the-badge&logo=php&logoColor=white) |
+
+| Ferramentas e IDEs |
+| :--- |
+| ![VS Code](https://img.shields.io/badge/vs_code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Visual Studio](https://img.shields.io/badge/visual_studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white) ![Android Studio](https://img.shields.io/badge/android_studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white) ![XAMPP](https://img.shields.io/badge/xampp-FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white) ![CodeBlocks](https://img.shields.io/badge/codeblocks-000000.svg?style=for-the-badge&logo=codeblocks&logoColor=white) ![Notepad++](https://img.shields.io/badge/notepad++-90E590.svg?style=for-the-badge&logo=notepadplusplus&logoColor=black) ![Bloco de notas](https://img.shields.io/badge/notepad-A4A4A4.svg?style=for-the-badge&logo=notepad&logoColor=white) |
+
+| Hardware e Jogos |
+| :--- |
+| ![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white) ![GameMaker](https://img.shields.io/badge/gamemaker-%23000000.svg?style=for-the-badge&logo=gamemaker&logoColor=white) |
+
+
 ---
 
 ## Percurso Acadêmico Detalhado
@@ -56,20 +75,3 @@ Acredito no registro e na documentação prática de conceitos e tecnologias fun
 
 ---
 *"Testando ideias por diversão e objetivo de ter um manual das coisas (manter uma rede conectada)."*
-
-
-| Linguagens e Tecnologias Web |
-| :--- |
-| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) |
-
-| Bancos de Dados e Ferramentas |
-| :--- |
-| ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/mysql_workbench-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MySQLi](https://img.shields.io/badge/mysqli-000000?style=for-the-badge&logo=php&logoColor=white) |
-
-| Ferramentas e IDEs |
-| :--- |
-| ![VS Code](https://img.shields.io/badge/vs_code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Visual Studio](https://img.shields.io/badge/visual_studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white) ![Android Studio](https://img.shields.io/badge/android_studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white) ![XAMPP](https://img.shields.io/badge/xampp-FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white) ![CodeBlocks](https://img.shields.io/badge/codeblocks-000000.svg?style=for-the-badge&logo=codeblocks&logoColor=white) ![Notepad++](https://img.shields.io/badge/notepad++-90E590.svg?style=for-the-badge&logo=notepadplusplus&logoColor=black) ![Bloco de notas](https://img.shields.io/badge/notepad-A4A4A4.svg?style=for-the-badge&logo=notepad&logoColor=white) |
-
-| Hardware e Jogos |
-| :--- |
-| ![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white) ![GameMaker](https://img.shields.io/badge/gamemaker-%23000000.svg?style=for-the-badge&logo=gamemaker&logoColor=white) |
